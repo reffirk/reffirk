@@ -1,6 +1,6 @@
 <h1>• WHO TF AM I? •</h1>
 
-<h4>- Sup', I'm Kriffer</br>
+<h4>• Sup', I'm Kriffer</br>
 • I'm just a guy who decided to learn how to code, but I want to be a Vet in the future (it makes sense right?)</br>
 • I dunno what I really want to do with this whole code think</br>
 • By now I just want to learn new things and everything</br>
