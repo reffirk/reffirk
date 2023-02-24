@@ -4,7 +4,8 @@
 - I'm just a guy who decided to learn how to code, but I want to be a Vet in the future (it makes sense right?)</br>
 - I dunno what I really want to do with this whole code think</br>
 - By now I just want to learn new things and everything</br>
-- I think this is it, cya soon, bye now :)</h4>
+- More about me bellow</h4>
+_____________________________________________
 
 ### ***Main skills:***
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,3 +31,5 @@
 [![Watsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/14996477895)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kriffer-mickael-1206ba244/)
 ![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+<h2>- I think this is it...Cya soon, bye :)</h2>
