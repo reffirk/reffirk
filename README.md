@@ -1,4 +1,4 @@
-*Sup', I'm Kriffer...I'm just a guy who decided to learn how to code, but I want to be a Vet in the future (it makes sense right?)...I dunno what I really want to do with this whole code think...By now I just want to learn new things and everything*
+*Sup', I'm ***Kriffer***...I'm just a guy who decided to learn how to code, but I want to be a Vet in the future (it makes sense right?)...I dunno what I really want to do with this whole code think...By now I just want to learn new things and everything
 I think this is it, cya soon, bye now :)*
 _________________________________________________________________________________________________________________________________________________________________________
 
