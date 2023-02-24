@@ -1,7 +1,8 @@
 <h1>WHO TF I'M?</h1>
 
-<h3>Sup', I'm Kriffer...I'm just a guy who decided to learn how to code, but I want to be a Vet in the future (it makes sense right?)...</br>
-I dunno what I really want to do with this whole code think...</br>
+<h3>Sup', I'm Kriffer</br>
+I'm just a guy who decided to learn how to code, but I want to be a Vet in the future (it makes sense right?)</br>
+I dunno what I really want to do with this whole code think</br>
 By now I just want to learn new things and everything</br>
 I think this is it, cya soon, bye now :)</h3>
 
