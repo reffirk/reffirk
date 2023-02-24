@@ -28,3 +28,5 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <h2>• I think this is it...Cya soon, bye :) •</h2>
+
+ᵇᵗʷ ᶦ ᵃᶦⁿ'ᵗ ʰᵉʳᵉ ᵗᵒ ᶠᶦⁿᵈ ᵃ ʲᵒᵇ ᵒʳ ˢᵒᵐᵉᵗʰᶦⁿᵍ ˡᶦᵏᵉ ᵗʰᶦˢ
