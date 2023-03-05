@@ -11,6 +11,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ### ***Learning:***
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,5 +27,11 @@
 ### ***OS:***
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### ***Hardware:***
+![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+### ***Languages:***
+![English](https://img.shields.io/badge/-ENGLISH-brightgreen)
+![Portuguese](https://img.shields.io/badge/%20-PORTUGUESE-brightgreen)
 
 <h2>• I think this is it...Cya soon, bye :) •</h2>ᵇᵗʷ ᶦ ᵃᶦⁿ'ᵗ ʰᵉʳᵉ ᵗᵒ ᶠᶦⁿᵈ ᵃ ʲᵒᵇ ᵒʳ ˢᵒᵐᵉᵗʰᶦⁿᵍ ˡᶦᵏᵉ ᵗʰᶦˢ
