@@ -34,4 +34,4 @@
 ![English](https://img.shields.io/badge/-ENGLISH-brightgreen)
 ![Portuguese](https://img.shields.io/badge/%20-PORTUGUESE-brightgreen)
 
-<h2>• I think this is it...Cya soon, bye :) •</h2>ᵇᵗʷ ᶦ ᵃᶦⁿ'ᵗ ʰᵉʳᵉ ᵗᵒ ᶠᶦⁿᵈ ᵃ ʲᵒᵇ ᵒʳ ˢᵒᵐᵉᵗʰᶦⁿᵍ ˡᶦᵏᵉ ᵗʰᶦˢ
+<h2>• I think this is it...Cya soon, bye :) •</h2>
