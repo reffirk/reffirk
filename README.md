@@ -4,7 +4,8 @@
 • I'm just a guy who decided to learn how to code, but I want to be a Vet in the future (it makes sense right?)</br>
 • I dunno what I really want to do with this whole code think</br>
 • By now I just want to learn new things and everything</br>
-• More about me bellow:</b>
+• More about me bellow:</br>
+• BTW, I hate the Internet
 
 ### ***Main skills:***
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
