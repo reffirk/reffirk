@@ -3,7 +3,7 @@
 <b>• Sup' ya'll, I'm <i>Kriffer</i></br>
 • I'm just a guy who decided to learn how to code, but I want to be a Vet in the future (it makes sense right?)</br>
 • I dunno what I really want to do with this whole code think</br>
-• By now I just want to learn new things and everything</br>
+• By now I just want to learn new things</br>
 • More about me bellow:</br>
 
 ### ***Main skills:***
