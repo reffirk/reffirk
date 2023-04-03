@@ -28,7 +28,7 @@
 ### ***OS:***
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-### ***Hardware:***
+### ***HaЯdwaЯe:***
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ### ***Languages:***
