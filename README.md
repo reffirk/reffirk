@@ -1,5 +1,9 @@
 <h1>• WHO TF AM I? •</h1>
 
+<div align center>
+  <img https://github-readme-stats.vercel.app/api?kriphpher={kriphpher}&theme=blue-green>
+</div>
+
 <b>• Sup' ya'll, I'm <i>KЯiffer</i></br>
 • I'm just a guy who decided to leaЯn how to code, but I want to be a Vet in the futuЯe (it makes sense Яight?)</br>
 • I dunno what I Яeally want to do with this whole code think, but i want to do something huge</br>
