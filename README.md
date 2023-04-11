@@ -1,7 +1,7 @@
 <h1>• WHO TF AM I? •</h1>
 
-<div align center>
-  <img https://github-readme-stats.vercel.app/api?kriphpher={kriphpher}&theme=blue-green>
+<div align="center">
+  <img img width="49%" height="195px" src="	https://github-readme-stats.vercel.app/api?kriphpher={kriphpher}&theme=blue-green">
 </div>
 
 <b>• Sup' ya'll, I'm <i>KЯiffer</i></br>
