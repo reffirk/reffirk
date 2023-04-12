@@ -1,5 +1,5 @@
-<h1 align="center"><i>• WHO TF I'M? •</i></h1>
 <div align="center">
+  <h3><i>• WHO TF I'M? •</i></h3>
   <b>• Sup' ya'll, I'm <i>KЯIFFEЯ</i> •</br>
   • I'm just a guy who decided to learn codes •</br>
   • I dunno what I really want to do with this whole code think, but i want to do something huge •</br>
@@ -10,13 +10,13 @@
 </div>
 <hr>
 <div align="center">
-  <h3>GitHub Stats</h3>
+  <h3><i>• GitHub Stats •</i></h3>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kriphpher&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kriphpher github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriphpher&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <hr>
-<h3 align="center">Skills:</h3>
+<h3 align="center"><i>• Skills •</i></h3>
 
 ### <h3>• Main skills •</h3>
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
