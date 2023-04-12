@@ -1,22 +1,16 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Sup'+ya'll;I'm+KЯIFFEЯ;I'm+just+a+guy+who's+tryin'+to+learn+new+things;Be+Welcomed!)
+
 <div align="center">
-  <h3><i>• WHO TF I'M? •</i></h3>
-  <b>• Sup' ya'll, I'm <i>KЯIFFEЯ</i> •</br>
-  • I'm just a guy who decided to learn codes •</br>
-  • I dunno what I really want to do with this whole code think, but i want to do something huge •</br>
-  • By now I just want to learn new things •</br>
-  
-  ![English](https://img.shields.io/badge/-ENGLISH-00bfbf)
-  ![Portuguese](https://img.shields.io/badge/%20-PORTUGUESE-00bfbf)<br>
-</div>
-<hr>
-<div align="center">
-  <h3><i>• GitHub Stats •</i></h3>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kriphpher&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Kriphpher github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriphpher&layout=compact&hide_border=true&title_color=00FF00&text_color=fffff0&bg_color=0d1117" />
 </div>
 
 <hr>
 <h3 align="center"><i>• Skills •</i></h3>
+
+### <h3>• Languages •</h3>
+  ![English](https://img.shields.io/badge/-ENGLISH-00bfbf)
+  ![Portuguese](https://img.shields.io/badge/%20-PORTUGUESE-00bfbf)
 
 ### <h3>• Main skills •</h3>
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
