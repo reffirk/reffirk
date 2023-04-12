@@ -1,16 +1,19 @@
 <h1>• WHO TF AM I? •</h1>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kriphpher&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kriphpher github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriphpher&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-</div>
-
 <b>• Sup' ya'll, I'm <i>KЯiffer</i></br>
 • I'm just a guy who decided to leaЯn how to code, but I want to be a Vet in the futuЯe (it makes sense Яight?)</br>
 • I dunno what I Яeally want to do with this whole code think, but i want to do something huge</br>
 • By now I just want to leaЯn new things</br>
 • MoЯe about me bellow:</br>
+![English](https://img.shields.io/badge/-ENGLISH-brightgreen)
+![Portuguese](https://img.shields.io/badge/%20-PORTUGUESE-brightgreen)
+
+<h2 align="center">GitHub Stats<h2>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kriphpher&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kriphpher github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriphpher&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+</div>
 
 ### ***MAIN SKILLS:***
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,10 +27,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-### ***INTEЯESTS:***
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ### ***TOOLS:***
@@ -44,8 +43,5 @@
 ### ***HAЯDWAЯE:***
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-### ***LANGUAGES:***
-![English](https://img.shields.io/badge/-ENGLISH-brightgreen)
-![Portuguese](https://img.shields.io/badge/%20-PORTUGUESE-brightgreen)
 
 <h2>• I think this is it...Cya soon, bye :) •</h2>
