@@ -38,7 +38,7 @@
 ### <h3>• OS •</h3>
   ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=fff)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=fff)
-  ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=000)
+  ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=fff)
   ![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=fff)
 ### <h3>• Hardware •</h3>
   ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-000?style=for-the-badge&logo=nvidia&logoColor=fff)
