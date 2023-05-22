@@ -32,7 +32,7 @@
 ### <h3>• Tools •</h3>
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff)
   ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=fff)
-  ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor-fff)
+  ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=fff)
   ![Powershell](https://img.shields.io/badge/powershell-000?style=for-the-badge&logo=powershell&logoColor=fff)
   ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-000?style=for-the-badge&logo=windows%20terminal&logoColor=fff)
 ### <h3>• OS •</h3>
