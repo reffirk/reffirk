@@ -8,7 +8,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kriphpher&show_icons=false&count_private=true&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0A0C10" alt="Kriphpher github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriphpher&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0A0C10" />
 </div>
-
 <hr>
 <h3 align="center"><i>• Skills •</i></h3>
 
@@ -44,3 +43,29 @@
   ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-000?style=for-the-badge&logo=nvidia&logoColor=fff)
   ![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-000?style=for-the-badge&logo=intel&logoColor=fff)
 <hr>
+<details>
+  <p align="center">
+    <a href="https://github.com/kriphpher">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kriphpher&theme=transparent" />
+    </a>
+    <a href="https://github.com/kriphpher">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriphpher&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/kriphpher">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kriphpher&theme=transparent" />
+    </a>
+    <a href="https://github.com/kriphpher">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriphpher&langs_count=3&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    </a>
+  </p>
+</details>
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
