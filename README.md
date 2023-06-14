@@ -38,8 +38,8 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=fff)
   ![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=fff)
 ### <h3>• Hardware •</h3>
-  ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-000?style=for-the-badgeColor=000&logo=nvidia&logoColor=fff)
-  ![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-000?style=for-the-badgeColor=000&logo=intel&logoColor=fff)
+  ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-000?style=for-the-badge&logo=nvidia&logoColor=fff)
+  ![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-000?style=for-the-badge&logo=intel&logoColor=fff)
 <hr>
 <details>
   <p align="center">
