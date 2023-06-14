@@ -17,8 +17,8 @@
 ### <h3>• Main skills •</h3>
   ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=fff)
   ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=fff)
-  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=fff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=fff)
+  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ### <h3>• Basic Knowledge •</h3>
   ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=fff)
   ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=for-the-badge&logo=wordpress&logoColor=fff)
@@ -32,16 +32,14 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff)
   ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=fff)
   ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=fff)
-  ![Powershell](https://img.shields.io/badge/powershell-000?style=for-the-badge&logo=powershell&logoColor=fff)
   ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-000?style=for-the-badge&logo=windows%20terminal&logoColor=fff)
 ### <h3>• OS •</h3>
   ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=fff)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=fff)
-  ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=fff)
   ![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=fff)
 ### <h3>• Hardware •</h3>
-  ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-000?style=for-the-badge&logo=nvidia&logoColor=fff)
-  ![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-000?style=for-the-badge&logo=intel&logoColor=fff)
+  ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-000?style=for-the-badgeColor=000&logo=nvidia&logoColor=fff)
+  ![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-000?style=for-the-badgeColor=000&logo=intel&logoColor=fff)
 <hr>
 <details>
   <p align="center">
