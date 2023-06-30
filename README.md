@@ -42,7 +42,7 @@
   ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-000?style=for-the-badge&logo=nvidia&logoColor=fff)
   ![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-000?style=for-the-badge&logo=intel&logoColor=fff)
 <hr>
-<details>
+<!--<details>
   <p align="center">
     <a href="https://github.com/kriphpher">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kriphpher&theme=transparent" />
@@ -54,7 +54,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kriphpher&theme=transparent" />
     </a>
   </p>
-</details>
+</details>-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
