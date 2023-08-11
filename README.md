@@ -18,7 +18,6 @@
   ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=fff)
   ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=fff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=fff)
-  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ### <h3>• Basic Knowledge •</h3>
   ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=fff)
   ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=for-the-badge&logo=wordpress&logoColor=fff)
