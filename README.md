@@ -5,8 +5,8 @@
 <div align="center">
   <hr>
   <h3><i>• GitHub Stats •</i></h3>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kriphpher&show_icons=false&count_private=true&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0A0C10" alt="Kriphpher github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriphpher&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0A0C10" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reffirk&show_icons=false&count_private=true&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0A0C10" alt="reffirk github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reffirk&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0A0C10" />
 </div>
 <hr>
 <h3 align="center"><i>• Skills •</i></h3>
