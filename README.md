@@ -1,6 +1,6 @@
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Sup'+ya'll;I'm+just+a+guy+who's+tryin'+to+learn+new+things;Be+Welcomed!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=just+learning+things;DRINK+WATER)
 
 <div align="center">
   <hr>
@@ -14,31 +14,30 @@
 ### <h3>• Languages •</h3>
   ![English](https://img.shields.io/badge/-ENGLISH-000)
   ![Portuguese](https://img.shields.io/badge/%20-PORTUGUESE-000)
-### <h3>• Main skills •</h3>
+### <h3>• Skills •</h3>
   ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=fff)
   ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=fff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=fff)
-### <h3>• Basic Knowledge •</h3>
+  ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=fff)
+  ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=fff)
+<!--### <h3>• Basic Knowledge •</h3>
   ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=fff)
   ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=for-the-badge&logo=wordpress&logoColor=fff)
 ### <h3>• Learning •</h3>
-  ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=fff)
-  ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=fff)
   ![SAAS](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=fff)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=fff)
-  ![DJANGO](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=fff)
+  ![DJANGO](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=fff) -->
 ### <h3>• Tools •</h3>
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff)
   ![NeoVim](https://img.shields.io/badge/NeoVim-000.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=fff)
+  <!--![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=fff)-->
 ### <h3>• OS •</h3>
   ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=fff)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=fff)
   ![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=fff)
-### <h3>• Hardware •</h3>
+<!--### <h3>• Hardware •</h3>
   ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-000?style=for-the-badge&logo=nvidia&logoColor=fff)
   ![Intel](https://img.shields.io/badge/Intel-Core_i5_8400-000?style=for-the-badge&logo=intel&logoColor=fff)
-<hr>
 <!--<details>
   <p align="center">
     <a href="https://github.com/kriphpher">
@@ -53,12 +52,13 @@
   </p>
 </details>-->
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 <b><i>I’m currently working on:</b></i> <i>I'm actually studying Psychology though</i>
+- 🌱 <b><i>I’m currently learning:</b></i> <i>A little of everything again</i> 
+- 👯 <b><i>I’m looking to collaborate on:</b></i> ...
+- 🤔 <b><i>I’m looking for help with:</b></i> ...
+- 💬 <b><i>Ask me about:</b></i> ...
+- 📫 <b><i>How to reach me:</b></i> <a url="kriffer13@proton.me">kriffer13@proton.me</a>
+- 😄 <b><i>Pronouns:</b></i> ...
+- ⚡ <b><i>Fun fact:</b></i> ...
 -->
+<hr>
