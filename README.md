@@ -5,9 +5,14 @@
 <div align="center">
   <hr>
   <h3><i>• GitHub Stats •</i></h3>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reffirk&show_icons=false&count_private=true&hide_border=true&title_color=FFF&text_color=FFF&bg_color=010409" alt="reffirk github stats" /><!--0A0C10--> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reffirk&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=010409" /><!--0A0C10-->
-</div>
+
+<div>
+  <!--<a href="https://github.com/reffirk">-->
+    <p align="center">
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reffirk&count_private=true&hide_border=true&title_color=FFF&text_color=FFF&bg_color=010409" alt="reffirk github stats" />
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reffirk&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=010409" />
+    </p>
+ <a/>
 <hr>
 <h3 align="center"><i>• Skills •</i></h3>
 
@@ -60,5 +65,11 @@
 - 📫 <b><i>How to reach me:</b></i> <a url="kriffer13@proton.me">kriffer13@proton.me</a>
 - 😄 <b><i>Pronouns:</b></i> ...
 - ⚡ <b><i>Fun fact:</b></i> ...
+
+</div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reffirk&show_icons=false&count_private=true&/>0A0C10
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reffirk&/>0A0C10
+</div>
+
 -->
 <hr>
