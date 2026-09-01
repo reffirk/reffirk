@@ -12,8 +12,7 @@
     </p>
  <a/>
 <hr>-->
-<h3 align="center"><i>• Skills •</i></h3>
-
+  
 ### <h3>• Languages •</h3>
   ![English](https://img.shields.io/badge/-ENGLISH-010409)
   ![Portuguese](https://img.shields.io/badge/%20-PORTUGUESE-010409)
