@@ -1,19 +1,17 @@
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=just+learning+things;DRINK+WATER)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=I'm+just+learning+things;DRINK+WATER)
 <div align="center">
   <hr>
+<!--<div>
   <h3><i>• GitHub Stats •</i></h3>
-
-<div>
-  <!--<a href="https://github.com/reffirk">-->
+  <a href="https://github.com/reffirk">
     <p align="center">
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reffirk&count_private=true&hide_border=true&title_color=FFF&text_color=FFF&bg_color=010409" alt="reffirk github stats" />
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reffirk&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=010409" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=reffirk&count_private=true&hide_border=true&title_color=FFF&text_color=FFF&bg_color=010409" alt="reffirk github stats" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reffirk&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=010409" />
     </p>
  <a/>
-<hr>
+<hr>-->
 <h3 align="center"><i>• Skills •</i></h3>
 
 ### <h3>• Languages •</h3>
